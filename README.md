@@ -76,8 +76,9 @@
 <br/>  
 
 ## Github Stats  
-<div align="center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=jaredosuna&show_icons=true&theme=tokyonight&count_private=true&hide=stars" align="left" />
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredosuna&theme=tokyonight&layout=compact" alt="jaredosuna" />
 </div>  
 
