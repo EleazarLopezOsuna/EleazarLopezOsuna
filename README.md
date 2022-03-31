@@ -86,5 +86,5 @@
 <br/> 
 <br/> 
 
-## Usually listening to
+## Now I'm listening to 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12135226329&cover_image=true&theme=default&bar_color_cover=true" /></div>  
