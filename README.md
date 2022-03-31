@@ -12,7 +12,10 @@
 - ❓ Ask me about previous courses such as Data Structures, Compilers (1 & 2) & Computers architecture  
   
 
-- 🎓 Universidad de San Carlos de Guatemala  
+- 🎓 Universidad de San Carlos de Guatemala 
+
+
+- <img src="https://komarev.com/ghpvc/?username=jaredosuna&&style=flat-square" align="center" /> 
   
 
 <br/>  
@@ -73,17 +76,20 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaredosuna&show_icons=true&theme=tokyonight&count_private=true&hide=stars" align="left" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jaredosuna&show_icons=true&theme=tokyonight&count_private=true&hide=stars" align="left" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredosuna&theme=tokyonight&layout=compact" alt="jaredosuna" />
 </div>  
 
-
-<div align="center"><br/> <br/> <br/> <br/> 
-<img src="https://komarev.com/ghpvc/?username=jaredosuna&&style=flat-square" align="center" />
-</div>  
-
+<br/> 
+<br/>
+<br/>
+<br/> 
+<br/>
+<br/>
 <br/> 
 <br/> 
+
 
 ## Now I'm listening to 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12135226329&cover_image=true&theme=default&bar_color_cover=true" /></div>  
