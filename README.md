@@ -73,8 +73,8 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaredosuna&show_icons=true&count_private=true&hide_border=true" align="center" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaredosuna&show_icons=true&locale=en&layout=compact" alt="jaredosuna" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaredosuna&show_icons=true&theme=tokyonight&count_private=true&hide=stars" align="center" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredosuna&theme=tokyonight&layout=compact" alt="jaredosuna" />
 </div>  
 
 <br/> 
