@@ -77,7 +77,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredosuna&theme=tokyonight&layout=compact" alt="jaredosuna" />
 </div>  
 
-<br/> <br/> <br/> <br/> <br/> 
 
 <div align="center"><br/> <br/> <br/> <br/> 
 <img src="https://komarev.com/ghpvc/?username=jaredosuna&&style=flat-square" align="center" />
