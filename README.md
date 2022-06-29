@@ -15,7 +15,7 @@
 - 🎓 Universidad de San Carlos de Guatemala 
 
 
-- <img src="https://komarev.com/ghpvc/?username=jaredosuna&&style=flat-square" align="center" /> 
+- <img src="https://komarev.com/ghpvc/?username=EleazarLopezOsuna&&style=flat-square" align="center" /> 
   
 
 <br/>  
