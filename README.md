@@ -76,11 +76,11 @@
 ## Github Stats  
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=jaredosuna&show_icons=true&theme=tokyonight&count_private=true&hide=stars" align="left" />
+    <img src="https://github-readme-stats.vercel.app/api?username=EleazarLopezOsuna&show_icons=true&theme=tokyonight&count_private=true&hide=stars" align="left" />
   </div>  
   <br/>
   <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredosuna&theme=tokyonight&layout=compact" alt="jaredosuna" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleazarLopezOsuna&theme=tokyonight&layout=compact" alt="jaredosuna" />
   </div>
 </div>
 <br/> 
